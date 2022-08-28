@@ -1,0 +1,13 @@
+h1 {
+    color: deeppink
+}
+
+b {
+    font-size: 25px;
+}
+
+ul {
+    border-width: 1;
+    border-color: black;
+    border-style: dashed;
+}

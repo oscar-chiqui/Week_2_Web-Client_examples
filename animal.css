@@ -1,0 +1,41 @@
+.animal-info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+#cat-data {
+    background: orange;
+}
+
+#squirrel-data {
+    background: deepskyblue;
+}
+
+table, tr, th , td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background: gray;
+    width: 200px;
+}
+
+tr:nth-child(even) {
+    background: aquamarine;
+
+}
+
+tr:nth-child(odd) {
+    background: darkcyan;
+}
+
+p {
+    background-color: blue;
+    width: 100px;
+}
+
+#welcome {
+    color:white;
+    font-style: italic;
+    background-color: red;
+}

@@ -1,0 +1,51 @@
+p {
+    color: blue;
+    font-size:  20px;
+}
+
+/* center h1 elements */
+h1 {
+    color:white;
+    text-align: center;
+}
+
+/* Use a new font */
+body {
+    background-color: orange;
+    font-family: Perpetual, serif;
+}
+/* Appli color to the links and the way of text underline. */
+a {
+    background-color: yellowgreen;
+    text-decoration: underline;
+}
+
+/* I use the colors that i love */
+
+#page-title {
+    text-shadow: 4px 4px magenta;
+}
+
+#favorite-music-name {
+    background-color: fuchsia;
+}
+
+.favorite-section {
+    border: 5px black solid;
+    margin: 5px;
+}
+
+#page-title {
+    text-shadow: 4px 4px magenta;
+    margin: 40px;
+}
+
+li {
+    margin-left: 50px;
+}
+
+.favorite-section {
+    border: 5px black solid;
+    margin: 5px;
+    padding: 10 px;
+}

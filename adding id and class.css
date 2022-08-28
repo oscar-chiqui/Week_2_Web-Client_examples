@@ -1,0 +1,19 @@
+.list-title {
+    font-family: Arial, serif;
+    background-color: blue;
+}
+
+#front-end-tech-list {
+    color: red;
+    background-color: yellow;
+}
+
+#server-side-tech-list {
+    color: darkorchid;
+    background-color: yellow;
+    border: 2px darkorange;
+}
+
+.important {
+    color:red;
+}

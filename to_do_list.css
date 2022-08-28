@@ -1,0 +1,29 @@
+*Apply to all <li> tags*/
+li {
+    color : darkblue;
+}
+
+
+/*Apply to all tags with class = "important". In this example,
+two types of element have this class - some li elements and a span.
+Notice how this overrides the li selector above for important li elements.
+CSS will apply the most specific selector.*/
+.important {
+    color : red
+}
+
+/* This applies to the element with id = "thisweek". Notice how
+the style is also applied to the elements within this div element. */
+#thisweek {
+
+    font-weight: bold;
+}
+
+/* Apply a style only to the 
+element with id='nextweek'*/
+
+#nextweek {
+
+    font-style : italic;
+
+}
